@@ -1,6 +1,6 @@
 ---
 name: RNDr. Alena Rybáková
-shortName: Rb
+shortName: Rk
 kabinet: 209
 mail: alena.rybakova@ssps.cz
 class: fyz
